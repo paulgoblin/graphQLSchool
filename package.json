@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "setup":"npm i && jspm i",
-    "start": "babel-node --presets es2015 ./bin/www"
+    "setup": "npm i && jpsm i",
+    "start": "./node_modules/babel-cli/bin/babel-node.js --presets es2015 ./bin/www"
   },
   "dependencies": {
     "body-parser": "~1.13.2",
