@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "setup":"npm i && jspm i"
     "start": "babel-node --presets es2015 ./bin/www"
   },
   "dependencies": {
