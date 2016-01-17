@@ -1,1 +1,1 @@
-Serve runs locally but had trouble with Heroku deploy
+Attempts with React + GraphQL + Relay. Still buggy!
